@@ -1,7 +1,7 @@
 desencadenador:
 -main
 
-grupo: 
+grupo:
 vmImage: ubuntu-latest
 
 variables:
