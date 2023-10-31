@@ -2,7 +2,7 @@ desencadenador:
 -main
 
 grupo:
-    -vmImage: ubuntu-latest
+
 
 variables:
     buildConfiguration: 'Release'
