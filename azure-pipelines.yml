@@ -1,5 +1,5 @@
 desencadenador:
--main
+    -   main
 grupo:
     vmImage: ubuntu-latest
 variables:
